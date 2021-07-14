@@ -1,0 +1,11 @@
+tkinter
+
+DateTime
+os-sys
+Pillow
+pipwin
+PyAutoGUI
+pyttsx3
+pywhatkit
+pycopy-webbrowser
+SpeechRecognition
